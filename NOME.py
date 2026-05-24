@@ -1,0 +1,12 @@
+n=input("Digite seu nome: ")
+b=n.upper()
+c=n.lower()
+o=n.strip()
+i=n.replace(" ","")
+d=len(o)
+s=o.split()
+
+print(f"Maiúsculo: {b}")
+print(f"Minúsculo: {c}")
+print(f"Contagem de Caracteres sem espaço: {d}")
+print(f"Primeiro nome: {s[0]}")
