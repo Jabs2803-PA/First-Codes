@@ -20,8 +20,7 @@ I am building a strong foundation in programming today to become a **Data Scient
 It might be a little confusing due to there being many extremely simple projects, so I higlighted the "Most advanced" ones.
 * 🧮 **`FirstCalculator.py`**: My favorite project! It is amazing to see every single calculation work knowing that I designed the logic myself.
 * 🏷️ **`Conditio IV Triangle Existence.py`**: It was nice learning something new while evolving in Python
-* 📐 **`Manipilar Textos.py`**: Not that hard, however I have **TREMENDOUS** difficulty
-
+* 📐 **`Idle.py`**: Not that hard, however for some reason I have **TREMENDOUS** difficulty manipulating strings and not mixing them up with ints.
 ## 🛠️ Tools
 * **Language:** Python 3
 * **IDE:** PyCharm
