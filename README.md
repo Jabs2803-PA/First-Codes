@@ -25,4 +25,5 @@ It might be a little confusing due to there being many extremely simple projects
 * **Language:** Python 3
 * **IDE:** PyCharm
 * **Version Control:** Git & GitHub
+
 Love from Brasil!
