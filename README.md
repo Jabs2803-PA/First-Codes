@@ -19,8 +19,8 @@ I am building a strong foundation in programming today to become a **Data Scient
 ## 📂 Highlighted Projects
 It might be a little confusing due to there being many extremely simple projects, so I higlighted the "Most advanced" ones.
 * 🧮 **`FirstCalculator.py`**: My favorite project! It is amazing to see every single calculation work knowing that I designed the logic myself.
-* 🏷️ **`Desconto.py`**: A practical script to automate price discount logic.
-* 📐 **`Cálculo de área.py`**: Geometry exercises converted into automated code.
+* 🏷️ **`Conditio IV Triangle Existence.py`**: It was nice learning something new while evolving in Python
+* 📐 **`Manipilar Textos.py`**: Not that hard, however I have **TREMENDOUS** difficulty
 
 ## 🛠️ Tools
 * **Language:** Python 3
